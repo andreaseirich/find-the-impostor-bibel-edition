@@ -1,5 +1,14 @@
 # Finde den Impostor - Bibel Edition
 
+[![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue.svg?logo=kotlin)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Android-7.0%2B-green.svg?logo=android)](https://developer.android.com)
+[![Material Design](https://img.shields.io/badge/Material%20Design-3-orange.svg?logo=material-design)](https://material.io)
+[![Biblical Game](https://img.shields.io/badge/Biblical-Game-purple.svg)]()
+[![German](https://img.shields.io/badge/Language-German-red.svg)]()
+[![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
+[![Offline](https://img.shields.io/badge/Mode-Offline-lightblue.svg)]()
+[![Download](https://img.shields.io/badge/Download-APK-brightgreen.svg?logo=android)](https://github.com/andreaseirich/find-the-impostor-bibel-edition/raw/main/app/build/outputs/apk/debug/Impostor%20-%20Bible%20Edition.apk)
+
 **Status:** ✅ Live & Produktiv - Vollständig funktionsfähige Android-Anwendung  
 **Plattform:** Android (Native Kotlin)  
 **Zielgruppe:** Christliche Gemeinschaften, Jugendgruppen, Familien
