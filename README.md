@@ -10,8 +10,6 @@ Eine moderne Android-Anwendung, die das beliebte "Impostor"-Spielprinzip mit üb
 
 **APK-Download verfügbar:** [`app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk) (4.2 MB)
 
-> **Für Arbeitgeber:** Laden Sie die APK herunter und installieren Sie sie auf Ihrem Android-Gerät, um die App direkt zu testen. Keine Kompilierung erforderlich!
-
 ## Aktueller Status
 
 - ✅ **Vollständig entwickelt** - Alle Kernfunktionen implementiert
@@ -92,21 +90,11 @@ Eine moderne Android-Anwendung, die das beliebte "Impostor"-Spielprinzip mit üb
 </div>
 
 ## Installation & Test
-
-### Für Arbeitgeber - Direkter APK-Download
 1. **APK herunterladen:** [`app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk)
 2. **Auf Android-Gerät übertragen** (USB, E-Mail, Cloud)
 3. **"Unbekannte Quellen" aktivieren** in den Android-Einstellungen
 4. **APK installieren** durch Antippen der Datei
 5. **App starten** und sofort testen!
-
-### Für Entwickler - Build from Source
-```bash
-git clone [repository-url]
-cd finde-den-impostor-bibel-edition
-./gradlew assembleDebug
-# APK wird erstellt in: app/build/outputs/apk/debug/
-```
 
 ### System-Anforderungen
 - **Android 7.0+** (API Level 24 oder höher)
