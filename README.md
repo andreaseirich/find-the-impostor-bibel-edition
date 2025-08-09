@@ -8,7 +8,7 @@ Eine moderne Android-Anwendung, die das beliebte "Impostor"-Spielprinzip mit üb
 
 ## 📱 Sofort testen
 
-**APK-Download verfügbar:** [`app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk) (4.2 MB)
+**APK-Download verfügbar:** [`Impostor - Bible Edition.apk`](app/build/outputs/apk/debug/Impostor - Bible Edition.apk) (4.2 MB)
 
 ## Aktueller Status
 
@@ -90,7 +90,7 @@ Eine moderne Android-Anwendung, die das beliebte "Impostor"-Spielprinzip mit üb
 </div>
 
 ## Installation & Test
-1. **APK herunterladen:** [`app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk)
+1. **APK herunterladen:** [`Impostor - Bible Edition.apk`](app/build/outputs/apk/debug/Impostor - Bible Edition.apk)
 2. **Auf Android-Gerät übertragen** (USB, E-Mail, Cloud)
 3. **"Unbekannte Quellen" aktivieren** in den Android-Einstellungen
 4. **APK installieren** durch Antippen der Datei
