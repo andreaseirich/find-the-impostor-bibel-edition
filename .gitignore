@@ -116,3 +116,4 @@ gradle/
 *.kt
 *.xml
 *.pro
+.gitignore
